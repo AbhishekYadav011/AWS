@@ -1,2 +1,14 @@
-# AWS
-This repo contains scripts related to AWS
+# AWS Events
+
+## Folder Structure
+
+```
+.
+├── health
+├── slacredit
+│   └── app
+│       ├── services
+│       └── utils
+└── support_tickets
+```
+
